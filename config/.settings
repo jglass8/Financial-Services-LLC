@@ -1,0 +1,17 @@
+{
+    "projectName": "Financial Services LLC",
+    "username": "jonathan.glass@devorg.training",
+    "id": "ebde8a60-26d1-11e7-a596-2586db035495",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na40.salesforce.com",
+    "workspace": "C:\\Users\\Jonathan\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
